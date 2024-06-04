@@ -1,0 +1,1028 @@
+Scraping URL: https://www.medicarelist.com/primary-clinics/ca/
+0 Morongo Basin Community Health Center-29Clinic/Center - Federally Qualified Health Center (FQHC)Medicare: Medicare EnrolledPractice Location: 6380 Split Rock Ave Ste, 29 Palms, CA 92277Phone: 760-365-9305    Fax: 866-732-0113
+1 Morongo Basin Community Health Center-srClinic/Center - Federally Qualified Health Center (FQHC)Medicare: Medicare EnrolledPractice Location: 6380 Split Rock Ave Ste 103, 29 Palms, CA 92277Phone: 760-365-9305    Fax: 866-732-0113
+2 Acton Medical Clinic Inc.Family MedicineMedicare: Not Enrolled in MedicarePractice Location: 33310 Santiago Rd, Acton, CA 93510Phone: 661-269-9900    Fax: 661-269-9910
+3 
+
+
+
+4 Molina Healthcare Of CalifornaFamily MedicineMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+5 Mobile ClinicClinic/Center - Federally Qualified Health Center (FQHC)Medicare: Not Enrolled in MedicarePractice Location: 11888 Bartlett Ave, Adelanto, CA 92301Phone: 760-326-0222    
+6 Tri-state Community Healthcare CenterClinic/Center - Federally Qualified Health Center (FQHC)Medicare: Medicare EnrolledPractice Location: 11499 Bartlett Ave, Adelanto, CA 92301Phone: 760-444-4258    
+7 Golden Shore Medical GroupFamily MedicineMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+8 St. Mary Health Centers- AdelantoClinic/Center - Primary CareMedicare: Medicare EnrolledPractice Location: 11965 Cactus Rd Ste Ijk, Adelanto, CA 92301Phone: 760-246-6670    
+9 Dr Mikel Walk In ClinicGeneral PracticeMedicare: Not Enrolled in MedicarePractice Location: 11336 Bartlett Ave, Ste 12, Adelanto, CA 92301Phone: 760-530-1635    Fax: 760-949-1236
+10 Options Medical Center, IncClinic/Center - Primary CareMedicare: Not Enrolled in MedicarePractice Location: 11497 Bartlett Ave Ste B1, Adelanto, CA 92301Phone: 760-246-6600    Fax: 760-246-6608
+11 Adelanto Medical ClinicClinic/CenterMedicare: Not Enrolled in MedicarePractice Location: 11678 Rancho Rd, Adelanto, CA 92301Phone: 760-246-9555    Fax: 760-246-9115
+12 Physician Health Collaborative CorporationFamily MedicineMedicare: Not Enrolled in MedicarePractice Location: 11497 Bartlett Ave Ste B1, Adelanto, CA 92301Phone: 760-246-6600    Fax: 760-955-8558
+13 Desert Valley Medical Group, Inc.Family MedicineMedicare: Not Enrolled in MedicarePractice Location: 11499 Bartlett Ave, Adelanto, CA 92301Phone: 760-241-8000    
+14 Speech Therapy And Beyond IncClinic/CenterMedicare: Medicare EnrolledPractice Location: 5210 Lewis Rd Ste 7, Agoura Hills, CA 91301Phone: 818-312-1596    
+15 Afc Urgent CareClinic/Center - Multi-SpecialtyMedicare: Medicare EnrolledPractice Location: 5825 Kanan Rd, Agoura Hills, CA 91301Phone: 424-355-1963    
+16 Ruby C. Simpkins, M.d., A Medical CorporationInternal MedicineMedicare: Not Enrolled in MedicarePractice Location: 28240 Agoura Rd Ste 201, Agoura Hills, CA 91301Phone: 818-991-9800    Fax: 818-991-9814
+17 West Hills Family Practice Medical GroupFamily MedicineMedicare: Not Enrolled in MedicarePractice Location: 29525 Can Wood St # 305, Agoura Hills, CA 91301Phone: 818-707-7789    Fax: 818-707-7797
+18 Kanan Health Services IncInternal MedicineMedicare: Medicare EnrolledPractice Location: 5847 Kanan Rd, Agoura Hills, CA 91301Phone: 818-889-3070    
+19 Dilip Anmangandla, Md IncInternal MedicineMedicare: Not Enrolled in MedicarePractice Location: 28040 Dorothy Drive Suite 103, Agoura Hills, CA 91301Phone: 818-403-7874    
+20 Affiliates In Medical Specialties Medical Group IncInternal MedicineMedicare: Not Enrolled in MedicarePractice Location: 29525 Canwood St, Suite 300, Agoura Hills, CA 91301Phone: 818-706-2477    Fax: 818-706-2368
+['https://www.medicarelist.com/primary-care/morongo-basin-community-health-center-29-palms-ca/', 'https://www.medicarelist.com/primary-care/morongo-basin-healthcare-district-29-palms-ca/', 'https://www.medicarelist.com/primary-care/acton-medical-clinic-inc-acton-ca/', 'https://www.medicarelist.com/primary-care/molina-healthcare-of-californa-adelanto-ca/', 'https://www.medicarelist.com/primary-care/mobile-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/tri-state-community-healthcare-center-adelanto-ca/', 'https://www.medicarelist.com/primary-care/golden-shore-medical-group-adelanto-ca/', 'https://www.medicarelist.com/primary-care/st-jude-neighborhood-health-centers-adelanto-ca/', 'https://www.medicarelist.com/primary-care/dr-mikel-walk-in-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/options-medical-center-inc-adelanto-ca/', 'https://www.medicarelist.com/primary-care/adelanto-medical-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/physician-health-collaborative-corporation-adelanto-ca/', 'https://www.medicarelist.com/primary-care/desert-valley-medical-group-inc-adelanto-ca/', 'https://www.medicarelist.com/primary-care/speech-therapy-and-beyond-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/agoura-hills-urgentocare-pc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/ruby-c-simpkins-md-a-medical-corporation-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/west-hills-family-practice-medical-group-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/kanan-health-services-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/dilip-anmangandla-md-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/affiliates-in-medical-specialties-medical-group-inc-agoura-hills-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/morongo-basin-community-health-center-29-palms-ca/
+0 
+1 
+					Morongo Basin Community Health Center-29					
+2 
+3 
+6380 Split Rock Ave Ste29 PalmsCA 92277-2550 
+4 
+5 
+(760) 365-9305 
+6 
+7 
+					(866) 732-0113					
+8 Morongo Basin Community Health Center-29
+9 Clinic/Center
+10 6380 Split Rock Ave Ste, 29 Palms, California
+11 Cindy Schmall (CEO)
+12 7608209229
+13 Yes. This clinic participates in medicare program and accept medicare insurance. 
+14 Morongo Basin Community Health Center-296530 La Contenta Rd Ste 100Yucca ValleyCA 92284-7313Ph: (760) 820-9229
+15 Morongo Basin Community Health Center-296380 Split Rock Ave Ste29 PalmsCA 92277-2550Ph: (760) 365-9305
+16 1053733527
+17 01/17/2014
+18 01/09/2023
+19 1254240898
+20 O20140813002727
+21 1053733527
+22 NPI
+23 -
+24 NPPES
+25 261QF0400X
+26 Clinic/center - Federally Qualified Health Center (fqhc) 
+27  (* (Not Available))
+28 Primary
+29 Morongo Basin Community Health Center-srPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 6380 Split Rock Ave Ste 103, 29 Palms, CA 92277Phone: 760-365-9305    Fax: 866-732-0113
+30 
+['tel:7603659305', 'tel:7603659305', 'tel:7603659305', 'https://www.medicarelist.com/primary-care/morongo-basin-healthcare-district-29-palms-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/morongo-basin-healthcare-district-29-palms-ca/
+0 
+1 
+					Morongo Basin Community Health Center-sr					
+2 
+3 
+6380 Split Rock Ave Ste 10329 PalmsCA 92277-2550 
+4 
+5 
+(760) 365-9305 
+6 
+7 
+					(866) 732-0113					
+8 Morongo Basin Community Health Center-sr
+9 Clinic/Center
+10 6380 Split Rock Ave Ste 103, 29 Palms, California
+11 Cindy Schmall (CEO)
+12 7608209229
+13 Yes. This clinic participates in medicare program and accept medicare insurance. 
+14 Morongo Basin Community Health Center-sr6530 La Contenta Rd Ste 100Yucca ValleyCA 92284-7313Ph: (760) 820-9229
+15 Morongo Basin Community Health Center-sr6380 Split Rock Ave Ste 10329 PalmsCA 92277-2550Ph: (760) 365-9305
+16 1518475987
+17 01/18/2018
+18 12/09/2022
+19 1254240898
+20 O20200311002397
+21 1518475987
+22 NPI
+23 -
+24 NPPES
+25 261QF0400X
+26 Clinic/center - Federally Qualified Health Center (fqhc) 
+27  (* (Not Available))
+28 Primary
+29 Morongo Basin Community Health Center-29Primary Care ClinicMedicare: Medicare EnrolledPractice Location: 6380 Split Rock Ave Ste, 29 Palms, CA 92277Phone: 760-365-9305    Fax: 866-732-0113
+30 
+['tel:7603659305', 'tel:7603659305', 'tel:7603659305', 'https://www.medicarelist.com/primary-care/morongo-basin-community-health-center-29-palms-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/acton-medical-clinic-inc-acton-ca/
+0 
+1 
+					Acton Medical Clinic Inc.					
+2 
+3 
+33310 Santiago RdActonCA 93510-1429 
+4 
+5 
+(661) 269-9900 
+6 
+7 
+					(661) 269-9910					
+8 Acton Medical Clinic Inc.
+9 Family Medicine
+10 33310 Santiago Rd, Acton, California
+11 Antonette Abatti (ADMINISTRATOR)
+12 6619477100
+13 This clinic does not participate in Medicare Program. 
+14 Acton Medical Clinic Inc.33310 Santiago RdActonCA 93510-1429Ph: (661) 269-9900
+15 Acton Medical Clinic Inc.33310 Santiago RdActonCA 93510-1429Ph: (661) 269-9900
+16 1891971479
+17 01/14/2008
+18 01/14/2008
+19 1891971479
+20 NPI
+21 -
+22 NPPES
+23 00G507800
+24 Medicaid
+25 CA
+26 
+27 207Q00000X
+28 Family Medicine 
+29  (* (Not Available))
+30 Primary
+['tel:6612699900', 'tel:6612699900', 'tel:6612699900']
+Scraping URL: https://www.medicarelist.com/primary-care/molina-healthcare-of-californa-adelanto-ca/
+0 
+1 
+					Molina Healthcare Of Californa					
+2 
+3 
+11965 Cactus RdAdelantoCA 92301-4906 
+4 
+5 
+(760) 561-6081 
+6 
+7 
+					(877) 778-9461					
+8 Molina Healthcare Of Californa
+9 Family Medicine
+10 11965 Cactus Rd, Adelanto, California
+11 Matthew Schueren (V.P. FINANCE)
+12 8885625442
+13 This clinic does not participate in Medicare Program. 
+14 Molina Healthcare Of Californa200 Oceangate Ste 100Long BeachCA 90802-4317Ph: (888) 562-5442
+15 Molina Healthcare Of Californa11965 Cactus RdAdelantoCA 92301-4906Ph: (760) 561-6081
+16 1215442629
+17 12/07/2017
+18 12/07/2017
+19 1215442629
+20 NPI
+21 -
+22 NPPES
+23 207Q00000X
+24 Family Medicine 
+25  (* (Not Available))
+26 Primary
+27 207R00000X
+28 Internal Medicine 
+29  (* (Not Available))
+30 Secondary
+31 Mobile ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11888 Bartlett Ave, Adelanto, CA 92301Phone: 760-326-0222    
+32 
+33 Tri-state Community Healthcare CenterPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11499 Bartlett Ave, Adelanto, CA 92301Phone: 760-444-4258    
+34 
+35 Golden Shore Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+36 
+37 St. Mary Health Centers- AdelantoPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11965 Cactus Rd Ste Ijk, Adelanto, CA 92301Phone: 760-246-6670    
+38 
+39 Dr Mikel Walk In ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11336 Bartlett Ave, Ste 12, Adelanto, CA 92301Phone: 760-530-1635    Fax: 760-949-1236
+40 
+41 Options Medical Center, IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11497 Bartlett Ave Ste B1, Adelanto, CA 92301Phone: 760-246-6600    Fax: 760-246-6608
+42 
+['tel:7605616081', 'tel:7605616081', 'tel:7605616081', 'https://www.medicarelist.com/primary-care/mobile-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/tri-state-community-healthcare-center-adelanto-ca/', 'https://www.medicarelist.com/primary-care/golden-shore-medical-group-adelanto-ca/', 'https://www.medicarelist.com/primary-care/st-jude-neighborhood-health-centers-adelanto-ca/', 'https://www.medicarelist.com/primary-care/dr-mikel-walk-in-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/options-medical-center-inc-adelanto-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/mobile-clinic-adelanto-ca/
+0 
+1 
+					Mobile Clinic					
+2 
+3 
+11888 Bartlett AveAdelantoCA 92301-1709 
+4 
+5 
+(760) 326-0222 
+6 
+7 
+					Not Available					
+8 Mobile Clinic
+9 Clinic/center - Federally Qualified Health Center (fqhc)
+10 11888 Bartlett Ave, Adelanto, California
+11 Aram Manoukian (CEO)
+12 7603260222
+13 This clinic does not participate in Medicare Program. 
+14 Mobile Clinic1402 Bailey AveNeedlesCA 92363-3104Ph: () -
+15 Mobile Clinic11888 Bartlett AveAdelantoCA 92301-1709Ph: (760) 326-0222
+16 1336646397
+17 04/06/2018
+18 04/06/2018
+19 1336646397
+20 NPI
+21 -
+22 NPPES
+23 261QF0400X
+24 Clinic/center - Federally Qualified Health Center (fqhc) 
+25  (* (Not Available))
+26 Primary
+27 Molina Healthcare Of CalifornaPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+28 
+29 Tri-state Community Healthcare CenterPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11499 Bartlett Ave, Adelanto, CA 92301Phone: 760-444-4258    
+30 
+31 Golden Shore Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+32 
+33 St. Mary Health Centers- AdelantoPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11965 Cactus Rd Ste Ijk, Adelanto, CA 92301Phone: 760-246-6670    
+34 
+35 Dr Mikel Walk In ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11336 Bartlett Ave, Ste 12, Adelanto, CA 92301Phone: 760-530-1635    Fax: 760-949-1236
+36 
+37 Options Medical Center, IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11497 Bartlett Ave Ste B1, Adelanto, CA 92301Phone: 760-246-6600    Fax: 760-246-6608
+38 
+['tel:7603260222', 'tel:7603260222', 'tel:7603260222', 'https://www.medicarelist.com/primary-care/molina-healthcare-of-californa-adelanto-ca/', 'https://www.medicarelist.com/primary-care/tri-state-community-healthcare-center-adelanto-ca/', 'https://www.medicarelist.com/primary-care/golden-shore-medical-group-adelanto-ca/', 'https://www.medicarelist.com/primary-care/st-jude-neighborhood-health-centers-adelanto-ca/', 'https://www.medicarelist.com/primary-care/dr-mikel-walk-in-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/options-medical-center-inc-adelanto-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/tri-state-community-healthcare-center-adelanto-ca/
+0 
+1 
+					Tri-state Community Healthcare Center					
+2 
+3 
+11499 Bartlett AveAdelantoCA 92301-1902 
+4 
+5 
+(760) 444-4258 
+6 
+7 
+					Not Available					
+8 Tri-state Community Healthcare Center
+9 Clinic/Center
+10 11499 Bartlett Ave, Adelanto, California
+11 Crystale Mineros (CREDENTIALING MANAGER)
+12 9095757161
+13 Yes. This clinic participates in medicare program and accept medicare insurance. 
+14 Tri-state Community Healthcare Center1535 E Colorado StGlendaleCA 91205-1513Ph: () -
+15 Tri-state Community Healthcare Center11499 Bartlett AveAdelantoCA 92301-1902Ph: (760) 444-4258
+16 1508379017
+17 11/07/2017
+18 03/13/2024
+19 5597991968
+20 O20180418002336
+21 1508379017
+22 NPI
+23 -
+24 NPPES
+25 261QF0400X
+26 Clinic/center - Federally Qualified Health Center (fqhc) 
+27  (* (Not Available))
+28 Primary
+29 261QP2300X
+30 Clinic/center - Primary Care 
+31  (* (Not Available))
+32 Secondary
+33 Molina Healthcare Of CalifornaPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+34 
+35 Mobile ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11888 Bartlett Ave, Adelanto, CA 92301Phone: 760-326-0222    
+36 
+37 Golden Shore Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+38 
+39 St. Mary Health Centers- AdelantoPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11965 Cactus Rd Ste Ijk, Adelanto, CA 92301Phone: 760-246-6670    
+40 
+41 Dr Mikel Walk In ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11336 Bartlett Ave, Ste 12, Adelanto, CA 92301Phone: 760-530-1635    Fax: 760-949-1236
+42 
+43 Options Medical Center, IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11497 Bartlett Ave Ste B1, Adelanto, CA 92301Phone: 760-246-6600    Fax: 760-246-6608
+44 
+['tel:7604444258', 'tel:7604444258', 'tel:7604444258', 'https://www.medicarelist.com/primary-care/molina-healthcare-of-californa-adelanto-ca/', 'https://www.medicarelist.com/primary-care/mobile-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/golden-shore-medical-group-adelanto-ca/', 'https://www.medicarelist.com/primary-care/st-jude-neighborhood-health-centers-adelanto-ca/', 'https://www.medicarelist.com/primary-care/dr-mikel-walk-in-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/options-medical-center-inc-adelanto-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/golden-shore-medical-group-adelanto-ca/
+0 
+1 
+					Golden Shore Medical Group					
+2 
+3 
+11965 Cactus RdAdelantoCA 92301-4906 
+4 
+5 
+(760) 561-6081 
+6 
+7 
+					(877) 778-9461					
+8 Golden Shore Medical Group
+9 Family Medicine
+10 11965 Cactus Rd, Adelanto, California
+11 Gloria Calderon (VICE PRESIDENT, CLINIC OPERATIONS)
+12 6263462455
+13 This clinic does not participate in Medicare Program. 
+14 Golden Shore Medical Group625 Fair Oaks Ave Ste 270South PasadenaCA 91030-5801Ph: (626) 346-2455
+15 Golden Shore Medical Group11965 Cactus RdAdelantoCA 92301-4906Ph: (760) 561-6081
+16 1538431242
+17 01/27/2012
+18 02/07/2018
+19 1538431242
+20 NPI
+21 -
+22 NPPES
+23 DU4034-EFF.3/6/12
+24 Other
+25 CA
+26 RAILROAD MEDICARE
+27 APPROVED 1/31/12
+28 Medicaid
+29 CA
+30 
+31 207Q00000X
+32 Family Medicine 
+33  (California)
+34 Primary
+35 208000000X
+36 Pediatrics 
+37  (California)
+38 Secondary
+39 Molina Healthcare Of CalifornaPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+40 
+41 Mobile ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11888 Bartlett Ave, Adelanto, CA 92301Phone: 760-326-0222    
+42 
+43 Tri-state Community Healthcare CenterPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11499 Bartlett Ave, Adelanto, CA 92301Phone: 760-444-4258    
+44 
+45 St. Mary Health Centers- AdelantoPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11965 Cactus Rd Ste Ijk, Adelanto, CA 92301Phone: 760-246-6670    
+46 
+47 Dr Mikel Walk In ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11336 Bartlett Ave, Ste 12, Adelanto, CA 92301Phone: 760-530-1635    Fax: 760-949-1236
+48 
+49 Options Medical Center, IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11497 Bartlett Ave Ste B1, Adelanto, CA 92301Phone: 760-246-6600    Fax: 760-246-6608
+50 
+['tel:7605616081', 'tel:7605616081', 'tel:7605616081', 'https://www.medicarelist.com/primary-care/molina-healthcare-of-californa-adelanto-ca/', 'https://www.medicarelist.com/primary-care/mobile-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/tri-state-community-healthcare-center-adelanto-ca/', 'https://www.medicarelist.com/primary-care/st-jude-neighborhood-health-centers-adelanto-ca/', 'https://www.medicarelist.com/primary-care/dr-mikel-walk-in-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/options-medical-center-inc-adelanto-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/st-jude-neighborhood-health-centers-adelanto-ca/
+0 
+1 
+					St. Mary Health Centers- Adelanto					
+2 
+3 
+11965 Cactus Rd Ste IjkAdelantoCA 92301-4909 
+4 
+5 
+(760) 246-6670 
+6 
+7 
+					Not Available					
+8 St. Mary Health Centers- Adelanto
+9 Clinic/Center
+10 11965 Cactus Rd Ste Ijk, Adelanto, California
+11 Timothy Jason Brown (CHIEF EXECUTIVE OFFICER)
+12 2088999631
+13 Yes. This clinic participates in medicare program and accept medicare insurance. 
+14 St. Mary Health Centers- Adelanto11965 Cactus Rd Ste IjkAdelantoCA 92301-4909Ph: () -
+15 St. Mary Health Centers- Adelanto11965 Cactus Rd Ste IjkAdelantoCA 92301-4909Ph: (760) 246-6670
+16 1578198727
+17 03/09/2020
+18 08/04/2020
+19 4284886789
+20 O20220304002217
+21 1578198727
+22 NPI
+23 -
+24 NPPES
+25 261QP2300X
+26 Clinic/center - Primary Care 
+27  (* (Not Available))
+28 Primary
+29 Molina Healthcare Of CalifornaPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+30 
+31 Mobile ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11888 Bartlett Ave, Adelanto, CA 92301Phone: 760-326-0222    
+32 
+33 Tri-state Community Healthcare CenterPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11499 Bartlett Ave, Adelanto, CA 92301Phone: 760-444-4258    
+34 
+35 Golden Shore Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+36 
+37 Dr Mikel Walk In ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11336 Bartlett Ave, Ste 12, Adelanto, CA 92301Phone: 760-530-1635    Fax: 760-949-1236
+38 
+39 Options Medical Center, IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11497 Bartlett Ave Ste B1, Adelanto, CA 92301Phone: 760-246-6600    Fax: 760-246-6608
+40 
+['tel:7602466670', 'tel:7602466670', 'tel:7602466670', 'https://www.medicarelist.com/primary-care/molina-healthcare-of-californa-adelanto-ca/', 'https://www.medicarelist.com/primary-care/mobile-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/tri-state-community-healthcare-center-adelanto-ca/', 'https://www.medicarelist.com/primary-care/golden-shore-medical-group-adelanto-ca/', 'https://www.medicarelist.com/primary-care/dr-mikel-walk-in-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/options-medical-center-inc-adelanto-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/dr-mikel-walk-in-clinic-adelanto-ca/
+0 
+1 
+					Dr Mikel Walk In Clinic					
+2 
+3 
+11336 Bartlett AveSte 12AdelantoCA 92301-1948 
+4 
+5 
+(760) 530-1635 
+6 
+7 
+					(760) 949-1236					
+8 Dr Mikel Walk In Clinic
+9 General Practice
+10 11336 Bartlett Ave, Adelanto, California
+11 Mikel Alwis (PRESIDENT)
+12 7602219298
+13 This clinic does not participate in Medicare Program. 
+14 Dr Mikel Walk In Clinic15791 Bear Valley RdHesperiaCA 92345-1746Ph: (760) 949-1231
+15 Dr Mikel Walk In Clinic11336 Bartlett AveSte 12AdelantoCA 92301-1948Ph: (760) 530-1635
+16 1629371976
+17 12/08/2010
+18 12/08/2010
+19 1629371976
+20 NPI
+21 -
+22 NPPES
+23 208D00000X
+24 General Practice 
+25 A48518 (California)
+26 Primary
+27 Molina Healthcare Of CalifornaPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+28 
+29 Mobile ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11888 Bartlett Ave, Adelanto, CA 92301Phone: 760-326-0222    
+30 
+31 Tri-state Community Healthcare CenterPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11499 Bartlett Ave, Adelanto, CA 92301Phone: 760-444-4258    
+32 
+33 Golden Shore Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+34 
+35 St. Mary Health Centers- AdelantoPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11965 Cactus Rd Ste Ijk, Adelanto, CA 92301Phone: 760-246-6670    
+36 
+37 Options Medical Center, IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11497 Bartlett Ave Ste B1, Adelanto, CA 92301Phone: 760-246-6600    Fax: 760-246-6608
+38 
+['tel:7605301635', 'tel:7605301635', 'tel:7605301635', 'https://www.medicarelist.com/primary-care/molina-healthcare-of-californa-adelanto-ca/', 'https://www.medicarelist.com/primary-care/mobile-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/tri-state-community-healthcare-center-adelanto-ca/', 'https://www.medicarelist.com/primary-care/golden-shore-medical-group-adelanto-ca/', 'https://www.medicarelist.com/primary-care/st-jude-neighborhood-health-centers-adelanto-ca/', 'https://www.medicarelist.com/primary-care/options-medical-center-inc-adelanto-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/options-medical-center-inc-adelanto-ca/
+0 
+1 
+					Options Medical Center, Inc					
+2 
+3 
+11497 Bartlett Ave Ste B1AdelantoCA 92301-1901 
+4 
+5 
+(760) 246-6600 
+6 
+7 
+					(760) 246-6608					
+8 Options Medical Center, Inc
+9 Clinic/center - Primary Care
+10 11497 Bartlett Ave Ste B1, Adelanto, California
+11 Karin Kerk (PRESIDENT)
+12 7602466600
+13 This clinic does not participate in Medicare Program. 
+14 Options Medical Center, Inc11497 Bartlett Ave Ste B1AdelantoCA 92301-1901Ph: (760) 246-6600
+15 Options Medical Center, Inc11497 Bartlett Ave Ste B1AdelantoCA 92301-1901Ph: (760) 246-6600
+16 1669737508
+17 07/06/2012
+18 07/06/2012
+19 1669737508
+20 NPI
+21 -
+22 NPPES
+23 261QP2300X
+24 Clinic/center - Primary Care 
+25 A108988 (California)
+26 Primary
+27 Molina Healthcare Of CalifornaPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+28 
+29 Mobile ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11888 Bartlett Ave, Adelanto, CA 92301Phone: 760-326-0222    
+30 
+31 Tri-state Community Healthcare CenterPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11499 Bartlett Ave, Adelanto, CA 92301Phone: 760-444-4258    
+32 
+33 Golden Shore Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+34 
+35 St. Mary Health Centers- AdelantoPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11965 Cactus Rd Ste Ijk, Adelanto, CA 92301Phone: 760-246-6670    
+36 
+37 Dr Mikel Walk In ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11336 Bartlett Ave, Ste 12, Adelanto, CA 92301Phone: 760-530-1635    Fax: 760-949-1236
+38 
+['tel:7602466600', 'tel:7602466600', 'tel:7602466600', 'https://www.medicarelist.com/primary-care/molina-healthcare-of-californa-adelanto-ca/', 'https://www.medicarelist.com/primary-care/mobile-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/tri-state-community-healthcare-center-adelanto-ca/', 'https://www.medicarelist.com/primary-care/golden-shore-medical-group-adelanto-ca/', 'https://www.medicarelist.com/primary-care/st-jude-neighborhood-health-centers-adelanto-ca/', 'https://www.medicarelist.com/primary-care/dr-mikel-walk-in-clinic-adelanto-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/adelanto-medical-clinic-adelanto-ca/
+0 
+1 
+					Adelanto Medical Clinic					
+2 
+3 
+11678 Rancho RdAdelantoCA 92301-2700 
+4 
+5 
+(760) 246-9555 
+6 
+7 
+					(760) 246-9115					
+8 Adelanto Medical Clinic
+9 Clinic/center
+10 11678 Rancho Rd, Adelanto, California
+11 Odochi N. Nwagwu (PEDIATRICIAN/CEO)
+12 7602469555
+13 This clinic does not participate in Medicare Program. 
+14 Adelanto Medical Clinic11678 Rancho RdAdelantoCA 92301-2700Ph: (760) 246-9555
+15 Adelanto Medical Clinic11678 Rancho RdAdelantoCA 92301-2700Ph: (760) 246-9555
+16 1699029793
+17 10/29/2012
+18 10/29/2012
+19 1699029793
+20 NPI
+21 -
+22 NPPES
+23 261Q00000X
+24 Clinic/center 
+25  (* (Not Available))
+26 Primary
+27 Molina Healthcare Of CalifornaPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+28 
+29 Mobile ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11888 Bartlett Ave, Adelanto, CA 92301Phone: 760-326-0222    
+30 
+31 Tri-state Community Healthcare CenterPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11499 Bartlett Ave, Adelanto, CA 92301Phone: 760-444-4258    
+32 
+33 Golden Shore Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+34 
+35 St. Mary Health Centers- AdelantoPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11965 Cactus Rd Ste Ijk, Adelanto, CA 92301Phone: 760-246-6670    
+36 
+37 Dr Mikel Walk In ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11336 Bartlett Ave, Ste 12, Adelanto, CA 92301Phone: 760-530-1635    Fax: 760-949-1236
+38 
+39 Options Medical Center, IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11497 Bartlett Ave Ste B1, Adelanto, CA 92301Phone: 760-246-6600    Fax: 760-246-6608
+40 
+['tel:7602469555', 'tel:7602469555', 'tel:7602469555', 'https://www.medicarelist.com/primary-care/molina-healthcare-of-californa-adelanto-ca/', 'https://www.medicarelist.com/primary-care/mobile-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/tri-state-community-healthcare-center-adelanto-ca/', 'https://www.medicarelist.com/primary-care/golden-shore-medical-group-adelanto-ca/', 'https://www.medicarelist.com/primary-care/st-jude-neighborhood-health-centers-adelanto-ca/', 'https://www.medicarelist.com/primary-care/dr-mikel-walk-in-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/options-medical-center-inc-adelanto-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/physician-health-collaborative-corporation-adelanto-ca/
+0 
+1 
+					Physician Health Collaborative Corporation					
+2 
+3 
+11497 Bartlett Ave Ste B1AdelantoCA 92301-1901 
+4 
+5 
+(760) 246-6600 
+6 
+7 
+					(760) 955-8558					
+8 Physician Health Collaborative Corporation
+9 Family Medicine
+10 11497 Bartlett Ave Ste B1, Adelanto, California
+11 Stuart Levine (SOLE SHAREHOLDER)
+12 7609559555
+13 This clinic does not participate in Medicare Program. 
+14 Physician Health Collaborative Corporation11497 Bartlett Ave Ste B1AdelantoCA 92301-1901Ph: (760) 246-6600
+15 Physician Health Collaborative Corporation11497 Bartlett Ave Ste B1AdelantoCA 92301-1901Ph: (760) 246-6600
+16 1851821680
+17 06/14/2017
+18 07/21/2022
+19 1851821680
+20 NPI
+21 -
+22 NPPES
+23 207Q00000X
+24 Family Medicine 
+25 A87666 (California)
+26 Primary
+27 2084P0800X
+28 Psychiatry & Neurology - Psychiatry 
+29 G57910 (California)
+30 Secondary
+31 Molina Healthcare Of CalifornaPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+32 
+33 Mobile ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11888 Bartlett Ave, Adelanto, CA 92301Phone: 760-326-0222    
+34 
+35 Tri-state Community Healthcare CenterPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11499 Bartlett Ave, Adelanto, CA 92301Phone: 760-444-4258    
+36 
+37 Golden Shore Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+38 
+39 St. Mary Health Centers- AdelantoPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11965 Cactus Rd Ste Ijk, Adelanto, CA 92301Phone: 760-246-6670    
+40 
+41 Dr Mikel Walk In ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11336 Bartlett Ave, Ste 12, Adelanto, CA 92301Phone: 760-530-1635    Fax: 760-949-1236
+42 
+43 Options Medical Center, IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11497 Bartlett Ave Ste B1, Adelanto, CA 92301Phone: 760-246-6600    Fax: 760-246-6608
+44 
+['tel:7602466600', 'tel:7602466600', 'tel:7602466600', 'https://www.medicarelist.com/primary-care/molina-healthcare-of-californa-adelanto-ca/', 'https://www.medicarelist.com/primary-care/mobile-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/tri-state-community-healthcare-center-adelanto-ca/', 'https://www.medicarelist.com/primary-care/golden-shore-medical-group-adelanto-ca/', 'https://www.medicarelist.com/primary-care/st-jude-neighborhood-health-centers-adelanto-ca/', 'https://www.medicarelist.com/primary-care/dr-mikel-walk-in-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/options-medical-center-inc-adelanto-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/desert-valley-medical-group-inc-adelanto-ca/
+0 
+1 
+					Desert Valley Medical Group, Inc.					
+2 
+3 
+11499 Bartlett AveAdelantoCA 92301-1902 
+4 
+5 
+(760) 241-8000 
+6 
+7 
+					Not Available					
+8 Desert Valley Medical Group, Inc.
+9 Family Medicine
+10 11499 Bartlett Ave, Adelanto, California
+11 Kavitha Bhatia (OWNER)
+12 7602418000
+13 This clinic does not participate in Medicare Program. 
+14 Desert Valley Medical Group, Inc.16850 Bear Valley RdVictorvilleCA 92395-5794Ph: (760) 241-8000
+15 Desert Valley Medical Group, Inc.11499 Bartlett AveAdelantoCA 92301-1902Ph: (760) 241-8000
+16 1942250873
+17 05/11/2006
+18 04/27/2020
+19 1942250873
+20 NPI
+21 -
+22 NPPES
+23 GR0072097
+24 Medicaid
+25 CA
+26 
+27 4584430010
+28 Other
+29 CA
+30 DMERC
+31 CC8406
+32 Other
+33 CA
+34 RAILROAD MEDICARE
+35 207Q00000X
+36 Family Medicine 
+37  (* (Not Available))
+38 Primary
+39 2083X0100X
+40 Preventive Medicine - Occupational Medicine 
+41  (* (Not Available))
+42 Secondary
+43 208D00000X
+44 General Practice 
+45  (* (Not Available))
+46 Secondary
+47 Molina Healthcare Of CalifornaPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+48 
+49 Mobile ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11888 Bartlett Ave, Adelanto, CA 92301Phone: 760-326-0222    
+50 
+51 Tri-state Community Healthcare CenterPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11499 Bartlett Ave, Adelanto, CA 92301Phone: 760-444-4258    
+52 
+53 Golden Shore Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11965 Cactus Rd, Adelanto, CA 92301Phone: 760-561-6081    Fax: 877-778-9461
+54 
+55 St. Mary Health Centers- AdelantoPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 11965 Cactus Rd Ste Ijk, Adelanto, CA 92301Phone: 760-246-6670    
+56 
+57 Dr Mikel Walk In ClinicPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11336 Bartlett Ave, Ste 12, Adelanto, CA 92301Phone: 760-530-1635    Fax: 760-949-1236
+58 
+59 Options Medical Center, IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 11497 Bartlett Ave Ste B1, Adelanto, CA 92301Phone: 760-246-6600    Fax: 760-246-6608
+60 
+['tel:7602418000', 'tel:7602418000', 'tel:7602418000', 'https://www.medicarelist.com/primary-care/molina-healthcare-of-californa-adelanto-ca/', 'https://www.medicarelist.com/primary-care/mobile-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/tri-state-community-healthcare-center-adelanto-ca/', 'https://www.medicarelist.com/primary-care/golden-shore-medical-group-adelanto-ca/', 'https://www.medicarelist.com/primary-care/st-jude-neighborhood-health-centers-adelanto-ca/', 'https://www.medicarelist.com/primary-care/dr-mikel-walk-in-clinic-adelanto-ca/', 'https://www.medicarelist.com/primary-care/options-medical-center-inc-adelanto-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/speech-therapy-and-beyond-inc-agoura-hills-ca/
+0 
+1 
+					Speech Therapy And Beyond Inc					
+2 
+3 
+5210 Lewis Rd Ste 7Agoura HillsCA 91301-2662 
+4 
+5 
+(818) 312-1596 
+6 
+7 
+					Not Available					
+8 Speech Therapy And Beyond Inc
+9 Clinic/Center
+10 5210 Lewis Rd Ste 7, Agoura Hills, California
+11 Padideh Anvari (PRESIDENT)
+12 8183121596
+13 Yes. This clinic participates in medicare program and accept medicare insurance. 
+14 Speech Therapy And Beyond Inc5210 Lewis Rd Ste 7Agoura HillsCA 91301-2662Ph: (818) 312-1596
+15 Speech Therapy And Beyond Inc5210 Lewis Rd Ste 7Agoura HillsCA 91301-2662Ph: (818) 312-1596
+16 1013654201
+17 05/18/2022
+18 05/18/2022
+19 0143600296
+20 O20221111000468
+21 1013654201
+22 NPI
+23 -
+24 NPPES
+25 261Q00000X
+26 Clinic/center 
+27  (* (Not Available))
+28 Primary
+29 Padideh Anvari
+30 Practitioner - Qualified Speech Language Pathologist
+31 NPI Number: 1821141946PECOS PAC ID: 6901273598Enrollment ID: I20221111000535
+32 Afc Urgent CarePrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5825 Kanan Rd, Agoura Hills, CA 91301Phone: 424-355-1963    
+33 
+34 Ruby C. Simpkins, M.d., A Medical CorporationPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 28240 Agoura Rd Ste 201, Agoura Hills, CA 91301Phone: 818-991-9800    Fax: 818-991-9814
+35 
+36 West Hills Family Practice Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 29525 Can Wood St # 305, Agoura Hills, CA 91301Phone: 818-707-7789    Fax: 818-707-7797
+37 
+38 Kanan Health Services IncPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5847 Kanan Rd, Agoura Hills, CA 91301Phone: 818-889-3070    
+39 
+40 Dilip Anmangandla, Md IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 28040 Dorothy Drive Suite 103, Agoura Hills, CA 91301Phone: 818-403-7874    
+41 
+42 Affiliates In Medical Specialties Medical Group IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 29525 Canwood St, Suite 300, Agoura Hills, CA 91301Phone: 818-706-2477    Fax: 818-706-2368
+43 
+['tel:8183121596', 'tel:8183121596', 'tel:8183121596', 'https://www.medicarelist.com/primary-care/agoura-hills-urgentocare-pc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/ruby-c-simpkins-md-a-medical-corporation-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/west-hills-family-practice-medical-group-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/kanan-health-services-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/dilip-anmangandla-md-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/affiliates-in-medical-specialties-medical-group-inc-agoura-hills-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/agoura-hills-urgentocare-pc-agoura-hills-ca/
+0 
+1 
+					Afc Urgent Care					
+2 
+3 
+5825 Kanan RdAgoura HillsCA 91301-1651 
+4 
+5 
+(424) 355-1963 
+6 
+7 
+					Not Available					
+8 Afc Urgent Care
+9 Clinic/Center
+10 5825 Kanan Rd, Agoura Hills, California
+11 Adel Jabour (MEDICAL DIRECTOR)
+12 4243551963
+13 Yes. This clinic participates in medicare program and accept medicare insurance. 
+14 Afc Urgent CarePo Box 10417HolyokeMA 01041-2017Ph: (559) 206-6956
+15 Afc Urgent Care5825 Kanan RdAgoura HillsCA 91301-1651Ph: (424) 355-1963
+16 1043840465
+17 01/24/2020
+18 02/12/2020
+19 3476981226
+20 O20200310001981
+21 1043840465
+22 NPI
+23 -
+24 NPPES
+25 261QM1300X
+26 Clinic/center - Multi-specialty 
+27  (* (Not Available))
+28 Secondary
+29 261QU0200X
+30 Clinic/center - Urgent Care 
+31  (* (Not Available))
+32 Primary
+33 Dyan Cole
+34 Practitioner - Family Practice
+35 NPI Number: 1225067812PECOS PAC ID: 1951359348Enrollment ID: I20050112000589
+36 Adel F Jabour
+37 Practitioner - General Surgery
+38 NPI Number: 1154380301PECOS PAC ID: 8527104090Enrollment ID: I20091014000334
+39 Robert J Jaffe
+40 Practitioner - Internal Medicine
+41 NPI Number: 1326328444PECOS PAC ID: 8123270402Enrollment ID: I20121213000048
+42 Khalid Mekki Medani
+43 Practitioner - Neurosurgery
+44 NPI Number: 1912214503PECOS PAC ID: 2860629847Enrollment ID: I20150916003535
+45 Nadia S Trochanova
+46 Practitioner - Nurse Practitioner
+47 NPI Number: 1265858146PECOS PAC ID: 5991083511Enrollment ID: I20161101001835
+48 Salvador Plasencia
+49 Practitioner - Internal Medicine
+50 NPI Number: 1881953156PECOS PAC ID: 1850523374Enrollment ID: I20170609001691
+51 Wendy-ann L Sylvester
+52 Practitioner - Family Practice
+53 NPI Number: 1578504148PECOS PAC ID: 1951354265Enrollment ID: I20171031001422
+54 Khatereh A Assadi
+55 Practitioner - Family Practice
+56 NPI Number: 1427327766PECOS PAC ID: 3971763509Enrollment ID: I20190111001785
+57 Adina Rachel Gregor
+58 Practitioner - Nurse Practitioner
+59 NPI Number: 1851806301PECOS PAC ID: 6709210990Enrollment ID: I20200217001251
+60 Keena Lucretia Johnson
+61 Practitioner - Nurse Practitioner
+62 NPI Number: 1780136820PECOS PAC ID: 1052734803Enrollment ID: I20200713000710
+63 Marcie Lynn Hulpa
+64 Practitioner - Nurse Practitioner
+65 NPI Number: 1629616412PECOS PAC ID: 1456778398Enrollment ID: I20200824002928
+66 Lovelle E Rivera
+67 Practitioner - Nurse Practitioner
+68 NPI Number: 1205228699PECOS PAC ID: 9739482563Enrollment ID: I20210910002583
+69 Mikey Thanteraphong
+70 Practitioner - Nurse Practitioner
+71 NPI Number: 1437795333PECOS PAC ID: 6507137684Enrollment ID: I20211027002125
+72 Katrina Hazlett
+73 Practitioner - Nurse Practitioner
+74 NPI Number: 1023764792PECOS PAC ID: 8325425788Enrollment ID: I20220524003111
+75 Nahom Tassew
+76 Practitioner - Nurse Practitioner
+77 NPI Number: 1316689185PECOS PAC ID: 3678953460Enrollment ID: I20220711002904
+78 Carlos Estrella
+79 Practitioner - Family Practice
+80 NPI Number: 1932769924PECOS PAC ID: 4981088135Enrollment ID: I20220907001955
+81 Ali Chahine
+82 Practitioner - Family Practice
+83 NPI Number: 1013545961PECOS PAC ID: 7315360211Enrollment ID: I20221221002870
+84 Speech Therapy And Beyond IncPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5210 Lewis Rd Ste 7, Agoura Hills, CA 91301Phone: 818-312-1596    
+85 
+86 Ruby C. Simpkins, M.d., A Medical CorporationPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 28240 Agoura Rd Ste 201, Agoura Hills, CA 91301Phone: 818-991-9800    Fax: 818-991-9814
+87 
+88 West Hills Family Practice Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 29525 Can Wood St # 305, Agoura Hills, CA 91301Phone: 818-707-7789    Fax: 818-707-7797
+89 
+90 Kanan Health Services IncPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5847 Kanan Rd, Agoura Hills, CA 91301Phone: 818-889-3070    
+91 
+92 Dilip Anmangandla, Md IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 28040 Dorothy Drive Suite 103, Agoura Hills, CA 91301Phone: 818-403-7874    
+93 
+94 Affiliates In Medical Specialties Medical Group IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 29525 Canwood St, Suite 300, Agoura Hills, CA 91301Phone: 818-706-2477    Fax: 818-706-2368
+95 
+['tel:4243551963', 'tel:4243551963', 'tel:4243551963', 'https://www.medicarelist.com/primary-care/speech-therapy-and-beyond-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/ruby-c-simpkins-md-a-medical-corporation-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/west-hills-family-practice-medical-group-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/kanan-health-services-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/dilip-anmangandla-md-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/affiliates-in-medical-specialties-medical-group-inc-agoura-hills-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/ruby-c-simpkins-md-a-medical-corporation-agoura-hills-ca/
+0 
+1 
+					Ruby C. Simpkins, M.d., A Medical Corporation					
+2 
+3 
+28240 Agoura Rd Ste 201Agoura HillsCA 91301-2437 
+4 
+5 
+(818) 991-9800 
+6 
+7 
+					(818) 991-9814					
+8 Ruby C. Simpkins, M.d., A Medical Corporation
+9 Internal Medicine
+10 28240 Agoura Rd Ste 201, Agoura Hills, California
+11 Ruby C Simpkins (PRESIDENT)
+12 8189919800
+13 This clinic does not participate in Medicare Program. 
+14 Ruby C. Simpkins, M.d., A Medical Corporation28240 Agoura Rd Ste 201Agoura HillsCA 91301-2437Ph: (818) 991-9800
+15 Ruby C. Simpkins, M.d., A Medical Corporation28240 Agoura Rd Ste 201Agoura HillsCA 91301-2437Ph: (818) 991-9800
+16 1124031505
+17 08/15/2006
+18 01/25/2008
+19 1124031505
+20 NPI
+21 -
+22 NPPES
+23 207R00000X
+24 Internal Medicine 
+25 G31675 (California)
+26 Primary
+27 Speech Therapy And Beyond IncPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5210 Lewis Rd Ste 7, Agoura Hills, CA 91301Phone: 818-312-1596    
+28 
+29 Afc Urgent CarePrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5825 Kanan Rd, Agoura Hills, CA 91301Phone: 424-355-1963    
+30 
+31 West Hills Family Practice Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 29525 Can Wood St # 305, Agoura Hills, CA 91301Phone: 818-707-7789    Fax: 818-707-7797
+32 
+33 Kanan Health Services IncPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5847 Kanan Rd, Agoura Hills, CA 91301Phone: 818-889-3070    
+34 
+35 Dilip Anmangandla, Md IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 28040 Dorothy Drive Suite 103, Agoura Hills, CA 91301Phone: 818-403-7874    
+36 
+37 Affiliates In Medical Specialties Medical Group IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 29525 Canwood St, Suite 300, Agoura Hills, CA 91301Phone: 818-706-2477    Fax: 818-706-2368
+38 
+['tel:8189919800', 'tel:8189919800', 'tel:8189919800', 'https://www.medicarelist.com/primary-care/speech-therapy-and-beyond-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/agoura-hills-urgentocare-pc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/west-hills-family-practice-medical-group-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/kanan-health-services-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/dilip-anmangandla-md-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/affiliates-in-medical-specialties-medical-group-inc-agoura-hills-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/west-hills-family-practice-medical-group-agoura-hills-ca/
+0 
+1 
+					West Hills Family Practice Medical Group					
+2 
+3 
+29525 Can Wood St # 305Agoura HillsCA 91301 
+4 
+5 
+(818) 707-7789 
+6 
+7 
+					(818) 707-7797					
+8 West Hills Family Practice Medical Group
+9 Family Medicine
+10 29525 Can Wood St # 305, Agoura Hills, California
+11 Barry J Wallman (SOLE PROPRIETOR)
+12 8187077789
+13 This clinic does not participate in Medicare Program. 
+14 West Hills Family Practice Medical Group29525 Can Wood St # 305Agoura HillsCA 91301Ph: (818) 707-7789
+15 West Hills Family Practice Medical Group29525 Can Wood St # 305Agoura HillsCA 91301Ph: (818) 707-7789
+16 1154491934
+17 11/08/2006
+18 08/22/2020
+19 1154491934
+20 NPI
+21 -
+22 NPPES
+23 207Q00000X
+24 Family Medicine 
+25 G58527 (California)
+26 Primary
+27 207Q00000X
+28 Family Medicine 
+29 G72087 (California)
+30 Secondary
+31 Speech Therapy And Beyond IncPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5210 Lewis Rd Ste 7, Agoura Hills, CA 91301Phone: 818-312-1596    
+32 
+33 Afc Urgent CarePrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5825 Kanan Rd, Agoura Hills, CA 91301Phone: 424-355-1963    
+34 
+35 Ruby C. Simpkins, M.d., A Medical CorporationPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 28240 Agoura Rd Ste 201, Agoura Hills, CA 91301Phone: 818-991-9800    Fax: 818-991-9814
+36 
+37 Kanan Health Services IncPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5847 Kanan Rd, Agoura Hills, CA 91301Phone: 818-889-3070    
+38 
+39 Dilip Anmangandla, Md IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 28040 Dorothy Drive Suite 103, Agoura Hills, CA 91301Phone: 818-403-7874    
+40 
+41 Affiliates In Medical Specialties Medical Group IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 29525 Canwood St, Suite 300, Agoura Hills, CA 91301Phone: 818-706-2477    Fax: 818-706-2368
+42 
+['tel:8187077789', 'tel:8187077789', 'tel:8187077789', 'https://www.medicarelist.com/primary-care/speech-therapy-and-beyond-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/agoura-hills-urgentocare-pc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/ruby-c-simpkins-md-a-medical-corporation-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/kanan-health-services-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/dilip-anmangandla-md-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/affiliates-in-medical-specialties-medical-group-inc-agoura-hills-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/kanan-health-services-inc-agoura-hills-ca/
+0 
+1 
+					Kanan Health Services Inc					
+2 
+3 
+5847 Kanan RdAgoura HillsCA 91301-1651 
+4 
+5 
+(818) 889-3070 
+6 
+7 
+					Not Available					
+8 Kanan Health Services Inc
+9 Internal Medicine
+10 5847 Kanan Rd, Agoura Hills, California
+11 Anthony Cassar (AUTHORIZED OFFICIAL)
+12 8188893070
+13 Yes. This clinic participates in medicare program and accept medicare insurance. 
+14 Kanan Health Services Inc5847 Kanan RdAgoura HillsCA 91301-1651Ph: (818) 889-3070
+15 Kanan Health Services Inc5847 Kanan RdAgoura HillsCA 91301-1651Ph: (818) 889-3070
+16 1164298972
+17 12/01/2023
+18 12/01/2023
+19 4183075963
+20 O20240105000845
+21 1164298972
+22 NPI
+23 -
+24 NPPES
+25 207R00000X
+26 Internal Medicine 
+27  (* (Not Available))
+28 Primary
+29 Harneet S Bath
+30 Practitioner - Internal Medicine
+31 NPI Number: 1679747760PECOS PAC ID: 4880755941Enrollment ID: I20081208000234
+32 Speech Therapy And Beyond IncPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5210 Lewis Rd Ste 7, Agoura Hills, CA 91301Phone: 818-312-1596    
+33 
+34 Afc Urgent CarePrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5825 Kanan Rd, Agoura Hills, CA 91301Phone: 424-355-1963    
+35 
+36 Ruby C. Simpkins, M.d., A Medical CorporationPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 28240 Agoura Rd Ste 201, Agoura Hills, CA 91301Phone: 818-991-9800    Fax: 818-991-9814
+37 
+38 West Hills Family Practice Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 29525 Can Wood St # 305, Agoura Hills, CA 91301Phone: 818-707-7789    Fax: 818-707-7797
+39 
+40 Dilip Anmangandla, Md IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 28040 Dorothy Drive Suite 103, Agoura Hills, CA 91301Phone: 818-403-7874    
+41 
+42 Affiliates In Medical Specialties Medical Group IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 29525 Canwood St, Suite 300, Agoura Hills, CA 91301Phone: 818-706-2477    Fax: 818-706-2368
+43 
+['tel:8188893070', 'tel:8188893070', 'tel:8188893070', 'https://www.medicarelist.com/primary-care/speech-therapy-and-beyond-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/agoura-hills-urgentocare-pc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/ruby-c-simpkins-md-a-medical-corporation-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/west-hills-family-practice-medical-group-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/dilip-anmangandla-md-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/affiliates-in-medical-specialties-medical-group-inc-agoura-hills-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/dilip-anmangandla-md-inc-agoura-hills-ca/
+0 
+1 
+					Dilip Anmangandla, Md Inc					
+2 
+3 
+28040 Dorothy Drive Suite 103Agoura HillsCA 91301 
+4 
+5 
+(818) 403-7874 
+6 
+7 
+					Not Available					
+8 Dilip Anmangandla, Md Inc
+9 Internal Medicine
+10 28040 Dorothy Drive Suite 103, Agoura Hills, California
+11 Dilip Anmangandla (PRESIDENT/OWNER)
+12 8184037874
+13 This clinic does not participate in Medicare Program. 
+14 Dilip Anmangandla, Md Inc28040 Dorothy Drive Suite 103Agoura HillsCA 91301Ph: () -
+15 Dilip Anmangandla, Md Inc28040 Dorothy Drive Suite 103Agoura HillsCA 91301Ph: (818) 403-7874
+16 1184032351
+17 07/31/2014
+18 07/31/2014
+19 1184032351
+20 NPI
+21 -
+22 NPPES
+23 207R00000X
+24 Internal Medicine 
+25  (* (Not Available))
+26 Primary
+27 Speech Therapy And Beyond IncPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5210 Lewis Rd Ste 7, Agoura Hills, CA 91301Phone: 818-312-1596    
+28 
+29 Afc Urgent CarePrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5825 Kanan Rd, Agoura Hills, CA 91301Phone: 424-355-1963    
+30 
+31 Ruby C. Simpkins, M.d., A Medical CorporationPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 28240 Agoura Rd Ste 201, Agoura Hills, CA 91301Phone: 818-991-9800    Fax: 818-991-9814
+32 
+33 West Hills Family Practice Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 29525 Can Wood St # 305, Agoura Hills, CA 91301Phone: 818-707-7789    Fax: 818-707-7797
+34 
+35 Kanan Health Services IncPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5847 Kanan Rd, Agoura Hills, CA 91301Phone: 818-889-3070    
+36 
+37 Affiliates In Medical Specialties Medical Group IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 29525 Canwood St, Suite 300, Agoura Hills, CA 91301Phone: 818-706-2477    Fax: 818-706-2368
+38 
+['tel:8184037874', 'tel:8184037874', 'tel:8184037874', 'https://www.medicarelist.com/primary-care/speech-therapy-and-beyond-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/agoura-hills-urgentocare-pc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/ruby-c-simpkins-md-a-medical-corporation-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/west-hills-family-practice-medical-group-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/kanan-health-services-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/affiliates-in-medical-specialties-medical-group-inc-agoura-hills-ca/']
+Scraping URL: https://www.medicarelist.com/primary-care/affiliates-in-medical-specialties-medical-group-inc-agoura-hills-ca/
+0 
+1 
+					Affiliates In Medical Specialties Medical Group Inc					
+2 
+3 
+29525 Canwood StSuite 300Agoura HillsCA 91301-4233 
+4 
+5 
+(818) 706-2477 
+6 
+7 
+					(818) 706-2368					
+8 Affiliates In Medical Specialties Medical Group Inc
+9 Internal Medicine
+10 29525 Canwood St, Agoura Hills, California
+11 Nannette Valdez (BUSINESS OFFICE MGR)
+12 8183472921
+13 This clinic does not participate in Medicare Program. 
+14 Affiliates In Medical Specialties Medical Group Inc29525 Canwood StSuite 300Agoura HillsCA 91301-4233Ph: (818) 706-2477
+15 Affiliates In Medical Specialties Medical Group Inc29525 Canwood StSuite 300Agoura HillsCA 91301-4233Ph: (818) 706-2477
+16 1184746729
+17 04/04/2007
+18 09/25/2008
+19 1184746729
+20 NPI
+21 -
+22 NPPES
+23 207R00000X
+24 Internal Medicine 
+25  (* (Not Available))
+26 Primary
+27 Speech Therapy And Beyond IncPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5210 Lewis Rd Ste 7, Agoura Hills, CA 91301Phone: 818-312-1596    
+28 
+29 Afc Urgent CarePrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5825 Kanan Rd, Agoura Hills, CA 91301Phone: 424-355-1963    
+30 
+31 Ruby C. Simpkins, M.d., A Medical CorporationPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 28240 Agoura Rd Ste 201, Agoura Hills, CA 91301Phone: 818-991-9800    Fax: 818-991-9814
+32 
+33 West Hills Family Practice Medical GroupPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 29525 Can Wood St # 305, Agoura Hills, CA 91301Phone: 818-707-7789    Fax: 818-707-7797
+34 
+35 Kanan Health Services IncPrimary Care ClinicMedicare: Medicare EnrolledPractice Location: 5847 Kanan Rd, Agoura Hills, CA 91301Phone: 818-889-3070    
+36 
+37 Dilip Anmangandla, Md IncPrimary Care ClinicMedicare: Not Enrolled in MedicarePractice Location: 28040 Dorothy Drive Suite 103, Agoura Hills, CA 91301Phone: 818-403-7874    
+38 
+['tel:8187062477', 'tel:8187062477', 'tel:8187062477', 'https://www.medicarelist.com/primary-care/speech-therapy-and-beyond-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/agoura-hills-urgentocare-pc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/ruby-c-simpkins-md-a-medical-corporation-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/west-hills-family-practice-medical-group-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/kanan-health-services-inc-agoura-hills-ca/', 'https://www.medicarelist.com/primary-care/dilip-anmangandla-md-inc-agoura-hills-ca/']
+Scraping URL: tel:7603659305

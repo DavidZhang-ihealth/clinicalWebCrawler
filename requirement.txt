@@ -1,0 +1,3 @@
+going through doctors in medicarelist
+name, address, NPI number, does it participate medicare? specialty
+
