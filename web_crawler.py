@@ -27,14 +27,13 @@ def get_links(soup, base_url):
                 full_url = urljoin(base_url, href)
                 links.append(full_url)
 
-    page_number = soup.find_all
     return links
 
-def crawl(url):
+def crawl(filename, url):
     print(f"Scraping URL: {url}")
     html_content = fetch_html(url)
     soup = BeautifulSoup(html_content, 'html.parser')
-    file = open("result.txt", "a")
+    file = open(filename + '.txt', "a")
 
     entries = soup.find_all('td')
 
@@ -51,6 +50,7 @@ def crawl(url):
         file.write("Address: " + entries[10].get_text() + '\n') # address
         file.write("Accepts Medicare: " + entries[13].get_text() + '\n') # medicare?
         file.write("NPI: " + entries[16].get_text() + '\n') # NPI number
+        file.write("------------------------------------------------------------------------------------------------------------------------\n")
 
     links = get_links(soup, url)
     return links
@@ -59,7 +59,8 @@ def main():
     start_url = url
     to_crawl = [start_url]
     crawled = set()
-    file = open("result.txt", "w") 
+    filename = input("Enter the name of the area: ")
+    open(filename + '.txt', "w") 
 
     while to_crawl:
         print(f"Links to scrape: {to_crawl}")
@@ -68,7 +69,7 @@ def main():
             continue
 
         crawled.add(current_url)
-        links = crawl(current_url)
+        links = crawl(filename, current_url)
 
         for link in links:
             if link not in crawled and link not in to_crawl:

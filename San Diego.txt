@@ -1,0 +1,120 @@
+Name: Revivify Restorative Medicine
+Specialty: Family Medicine
+Address: 16445 Bernardo Center Dr, San Diego, California
+Accepts Medicare: Yes. This clinic participates in medicare program and accept medicare insurance. 
+NPI: 1003164385
+------------------------------------------------------------------------------------------------------------------------
+Name: Nucleus Medical Group
+Specialty: Family Medicine
+Address: 4570 Executive Dr Ste 100, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1003402264
+------------------------------------------------------------------------------------------------------------------------
+Name: Moden Medical Group
+Specialty: Internal Medicine
+Address: 8901 Activity Rd Ste 205, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1003422643
+------------------------------------------------------------------------------------------------------------------------
+Name: Presidio Medical Group Inc
+Specialty: Family Medicine
+Address: 4440 Lamont St, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1003996216
+------------------------------------------------------------------------------------------------------------------------
+Name: Michael L Butera Md Inc
+Specialty: Internal Medicine
+Address: 6699 Alvarado Rd Ste 2309, San Diego, California
+Accepts Medicare: Yes. This clinic participates in medicare program and accept medicare insurance. 
+NPI: 1013016112
+------------------------------------------------------------------------------------------------------------------------
+Name: San Diego Digestive Disease Consultants, Inc. A Medical Group
+Specialty: Internal Medicine
+Address: 8008 Frost St, San Diego, California
+Accepts Medicare: Yes. This clinic participates in medicare program and accept medicare insurance. 
+NPI: 1013132216
+------------------------------------------------------------------------------------------------------------------------
+Name: Munoz Medical Group Inc
+Specialty: Internal Medicine
+Address: 7345 Linda Vista Rd, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1013158062
+------------------------------------------------------------------------------------------------------------------------
+Name: Nma Comprehensive Health Center
+Specialty: Clinic/center - Federally Qualified Health Center (fqhc)
+Address: 3177 Ocean View Blvd, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1013194323
+------------------------------------------------------------------------------------------------------------------------
+Name: Intricate Mind Institute
+Specialty: Clinic/center
+Address: 444 Camino Del Rio S, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1013214394
+------------------------------------------------------------------------------------------------------------------------
+Name: Logan Heights Family Counseling Center
+Specialty: Clinic/Center
+Address: 2204 National Ave, San Diego, California
+Accepts Medicare: Yes. This clinic participates in medicare program and accept medicare insurance. 
+NPI: 1013952597
+------------------------------------------------------------------------------------------------------------------------
+Name: Scripps Clinic Medical Group
+Specialty: Clinic/center - Multi-specialty
+Address: 4060 4th Ave, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1013993450
+------------------------------------------------------------------------------------------------------------------------
+Name: City Heights Family Health Center
+Specialty: Clinic/Center
+Address: 5454 El Cajon Blvd, San Diego, California
+Accepts Medicare: Yes. This clinic participates in medicare program and accept medicare insurance. 
+NPI: 1023054004
+------------------------------------------------------------------------------------------------------------------------
+Name: Mid City Community Clinic Adults
+Specialty: Clinic/center - Federally Qualified Health Center (fqhc)
+Address: 4290 Polk Avenue, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1023135373
+------------------------------------------------------------------------------------------------------------------------
+Name: Scripps Health Dba Scripps Medical Foundation
+Specialty: Pediatrics
+Address: 501 Washington St, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1023141686
+------------------------------------------------------------------------------------------------------------------------
+Name: Harvard Medical Group Inc
+Specialty: General Practice
+Address: 7750 Dagget St Ste 108, San Diego, California
+Accepts Medicare: Yes. This clinic participates in medicare program and accept medicare insurance. 
+NPI: 1023225455
+------------------------------------------------------------------------------------------------------------------------
+Name: Diamond Neighborhoods Family Health Center
+Specialty: Clinic/center - Federally Qualified Health Center (fqhc)
+Address: 220 Euclid Ave, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1023296720
+------------------------------------------------------------------------------------------------------------------------
+Name: Viva Wellness Medical Group
+Specialty: Clinic/center - Primary Care
+Address: 3740 Rosecrans St, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1023317799
+------------------------------------------------------------------------------------------------------------------------
+Name: Hospital Psychiatric And Medical Group
+Specialty: Family Medicine
+Address: 3830 Valley Centre Dr, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1023388113
+------------------------------------------------------------------------------------------------------------------------
+Name: Bs Khehar Md Inc
+Specialty: Internal Medicine
+Address: 4060 Fourth Ave, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1033205463
+------------------------------------------------------------------------------------------------------------------------
+Name: Jim W. Turnage Md Professional Corp
+Specialty: Family Medicine
+Address: 7625 Mesa College Dr, San Diego, California
+Accepts Medicare: This clinic does not participate in Medicare Program. 
+NPI: 1033391818
+------------------------------------------------------------------------------------------------------------------------
