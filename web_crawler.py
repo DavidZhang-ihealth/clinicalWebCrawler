@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-url = 'https://www.medicarelist.com/primary-clinics/ca/santa-barbara/'
+url = input ("Enter url to scrape: ")
 response = requests.get(url)
 
 def fetch_html(url):
