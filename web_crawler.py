@@ -3,7 +3,12 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 url = input ("Enter url to scrape: ")
-response = requests.get(url)
+
+try:
+    response = requests.get(url)
+except:
+    print("Invalid link, exiting!")
+    exit(1)
 
 def fetch_html(url):
     response = requests.get(url)
