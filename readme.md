@@ -4,7 +4,7 @@
 Python, pip, BeautifulSoups4, requests
 
 ## On MacOS
-Simply run `./run.sh` in terminal and enter the URL you would like to scrape once prompted.
+Simply run `./run.sh` in terminal and enter the URL you would like to scrape once prompted. Then you will be prompted with filename where the scraped result will be stored in a plain text file. 
 
 ## On Windows (not quite sure)
 Run the following commands in order
